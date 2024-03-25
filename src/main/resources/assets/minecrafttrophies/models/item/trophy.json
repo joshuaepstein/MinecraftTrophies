@@ -1,0 +1,35 @@
+{
+  "parent": "minecrafttrophies:block/trophy/iron_trophy",
+  "overrides": [
+    {
+      "predicate": {
+        "minecrafttrophies:trophy_type": 0
+      },
+        "model": "minecrafttrophies:item/iron_trophy"
+    },
+    {
+      "predicate": {
+        "minecrafttrophies:trophy_type": 1
+      },
+      "model": "minecrafttrophies:item/gold_trophy"
+    },
+    {
+      "predicate": {
+        "minecrafttrophies:trophy_type": 2
+      },
+      "model": "minecrafttrophies:item/diamond_trophy"
+    },
+    {
+      "predicate": {
+        "minecrafttrophies:trophy_type": 3
+      },
+      "model": "minecrafttrophies:item/emerald_trophy"
+    },
+    {
+      "predicate": {
+        "minecrafttrophies:trophy_type": 4
+      },
+      "model": "minecrafttrophies:item/netherite_trophy"
+    }
+  ]
+}

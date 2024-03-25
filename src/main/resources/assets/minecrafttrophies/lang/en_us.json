@@ -1,0 +1,10 @@
+{
+  "minecrafttrophies.container.trophy_bench": "Trophy Bench",
+  "block.minecrafttrophies.trophy_bench": "Trophy Bench",
+  "block.minecrafttrophies.trophy": "Trophy",
+  "container.trophy_bench": "Upgrade Trophies",
+  "itemGroup.minecrafttrophies": "MinecraftTrophies",
+  "block.minecrafttrophies.trophy_crate": "Trophy Crate",
+  "block.minecrafttrophies.trophy_recycler": "Trophy Recycler",
+  "container.minecrafttrophies.crate": "Trophy Crate"
+}

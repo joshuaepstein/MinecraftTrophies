@@ -1,0 +1,79 @@
+{
+  "variants": {
+    "trophy_type=1,facing=east": {
+      "model": "minecrafttrophies:block/trophy/iron_trophy",
+      "y": 90
+    },
+    "trophy_type=1,facing=north": {
+      "model": "minecrafttrophies:block/trophy/iron_trophy"
+    },
+    "trophy_type=1,facing=south": {
+      "model": "minecrafttrophies:block/trophy/iron_trophy",
+      "y": 180
+    },
+    "trophy_type=1,facing=west": {
+      "model": "minecrafttrophies:block/trophy/iron_trophy",
+      "y": 270
+    },
+    "trophy_type=2,facing=east": {
+      "model": "minecrafttrophies:block/trophy/gold_trophy",
+        "y": 90
+    },
+    "trophy_type=2,facing=north": {
+      "model": "minecrafttrophies:block/trophy/gold_trophy"
+    },
+    "trophy_type=2,facing=south": {
+      "model": "minecrafttrophies:block/trophy/gold_trophy",
+      "y": 180
+    },
+    "trophy_type=2,facing=west": {
+      "model": "minecrafttrophies:block/trophy/gold_trophy",
+        "y": 270
+    },
+    "trophy_type=3,facing=east": {
+      "model": "minecrafttrophies:block/trophy/diamond_trophy",
+        "y": 90
+    },
+    "trophy_type=3,facing=north": {
+      "model": "minecrafttrophies:block/trophy/diamond_trophy"
+    },
+    "trophy_type=3,facing=south": {
+      "model": "minecrafttrophies:block/trophy/diamond_trophy",
+      "y": 180
+    },
+    "trophy_type=3,facing=west": {
+      "model": "minecrafttrophies:block/trophy/diamond_trophy",
+        "y": 270
+    },
+    "trophy_type=4,facing=east": {
+      "model": "minecrafttrophies:block/trophy/emerald_trophy",
+        "y": 90
+    },
+    "trophy_type=4,facing=north": {
+      "model": "minecrafttrophies:block/trophy/emerald_trophy"
+    },
+    "trophy_type=4,facing=south": {
+      "model": "minecrafttrophies:block/trophy/emerald_trophy",
+      "y": 180
+    },
+    "trophy_type=4,facing=west": {
+      "model": "minecrafttrophies:block/trophy/emerald_trophy",
+        "y": 270
+    },
+    "trophy_type=5,facing=east": {
+      "model": "minecrafttrophies:block/trophy/netherite_trophy",
+        "y": 90
+    },
+    "trophy_type=5,facing=north": {
+      "model": "minecrafttrophies:block/trophy/netherite_trophy"
+    },
+    "trophy_type=5,facing=south": {
+      "model": "minecrafttrophies:block/trophy/netherite_trophy",
+      "y": 180
+    },
+    "trophy_type=5,facing=west": {
+      "model": "minecrafttrophies:block/trophy/netherite_trophy",
+        "y": 270
+    }
+  }
+}

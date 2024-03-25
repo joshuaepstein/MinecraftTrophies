@@ -1,0 +1,14 @@
+{
+  "pop_1": {
+    "category": "master",
+    "sounds": [
+      "minecrafttrophies:pop_1"
+    ]
+  },
+  "pop_2": {
+    "category": "master",
+    "sounds": [
+      "minecrafttrophies:pop_2"
+    ]
+  }
+}
